@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="media.nofussflagging" name="NoFussConfluence Flagging" version="0.0.1" provider-name="NoFussComputing">
+  <extension point="xbmc.service"></extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Flagging Media</summary>
+    <description lang="en">Flagging media for the nofussconfluence skin</description>
+    <disclaimer lang="en">-</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
